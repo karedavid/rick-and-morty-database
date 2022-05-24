@@ -1,5 +1,7 @@
 # Rick & Morty Database
 
+Browse and search the characters, locations and episodes of the Rick & Morty TV show.
+
 ## Introduction
 
 Whit this application, you can learn about the characters, locations and episodes of the popular Rick & Morty TV show. As data source, the app uses the https://rickandmortyapi.com/ open API. You can do the following:
