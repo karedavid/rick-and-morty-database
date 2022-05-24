@@ -24,21 +24,14 @@ Whit this application, you can learn about the characters, locations and episode
 
 ## Screenshots
 
-![This is an image](/screenshots/Screenshot_20220524-224051.png)
+| Main screen | Character list | Character details | Character search | Location list | Location detals | Episode list | Episode details |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![](/screenshots/Screenshot_20220524-224051.png) | ![](/screenshots/Screenshot_20220524-224114.png) | ![](/screenshots/Screenshot_20220524-224203.png) | ![](/screenshots/Screenshot_20220524-224218.png) | ![](/screenshots/Screenshot_20220524-224235.png) | ![](/screenshots/Screenshot_20220524-224235.png) | ![](/screenshots/Screenshot_20220524-224245.png) | ![](/screenshots/Screenshot_20220524-224250.png) | ![](/screenshots/Screenshot_20220524-224305.png) |
 
 ## Technical details
 
-The application is made in Flutter, can be built for Android and Windows.
+The application is made in Flutter, can be built for Android and Windows. GraphQL is used to connect to the [The Rick and Morty API](https://rickandmortyapi.com/).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can open the project in Android Studio and build for Android and Windows. 
